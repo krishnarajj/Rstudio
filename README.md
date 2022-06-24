@@ -1,5 +1,4 @@
-# Appsilon-hiring
-Rstudio IAC using Aws cloudformation
+# Rstudio IAC using Aws cloudformation
 
 RStudio Workbench, formerly RStudio Server Pro 1, is the preferred data analysis and integrated development experience for professional R users and data science teams who use R and Python.
 The template uses AWS Amazon Machine Images (AMIs) that already have the products installed.
